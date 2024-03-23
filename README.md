@@ -6,7 +6,7 @@ fish configuration.
 
 ## Installation
 
-Install with [Fisher][] (recommended):
+Install with [Fisher](https://github.com/jorgebucaran/fisher) (recommended):
 
 ```fish
 fisher install sixbyone/fish-starship
